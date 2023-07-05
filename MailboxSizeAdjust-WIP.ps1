@@ -2,7 +2,6 @@
 # SCRIPT TO AUTOMATE EXCHANGE MAILBOX SIZE ADJUSTMENTS
 # Last Edit : 7/5/23
 #
-# Test Edit
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
